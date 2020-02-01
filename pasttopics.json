@@ -1,0 +1,1 @@
+[{"name":"Random number generation","solution":["UnityEngine.Random.Range()"]},{"name":"Get indicator count","solution":["`BombInfo.GetOnIndicators().Count()` -> lit; `BombInfo.GetOffIndicators().Count()` -> unlit"]}]
