@@ -1,0 +1,71 @@
+{
+    "guildId":"603300375058972737",
+    "RoleCommandChannel":"603493543574765591",
+    "IdeaCommandChannel":"603468409505841168",
+    "PastTopicFindChannel":"603477335446126606",
+    "BotLogChannel":"603553090192539649",
+    "MutedRole":"603549717754019860",
+    "HelpFinderChannel":"603324107450220580",
+    "BugChannels":[
+        {"input":"603324068820942908","output":"603477699201073182"},
+        {"input":"603471523642081300","output":"603474390184886272"},
+        {"input":"603467224891654153","output":"603473802378215440"},
+        {"input":"603467208609234957","output":"603473855222251520"},
+        {"input":"603514954988912656","output":"603515017891151872"},
+        {"input":"603539840889257985","output":"603539905926397952"},
+        {"input":"603540173837303808","output":"603540233329442827"},
+        {"input":"603546530099494927","output":"603546626098987028"},
+        {"input":"603553762803580940","output":"603553869615595520"}
+    ],
+    "GiveRoles":{
+        "sc":"603470206018256907",
+        "mo":"603470232924979200",
+        "mm":"603480708886822924",
+        "imm":"603488268503220226",
+        "ti":"603470321449697280",
+        "si":"603470385647976489",
+        "se":"603519202682470400",
+        "me":"603519268914593822",
+        "wc":"604646023322664984"
+    },
+    "DescRoles":{
+        "sc":"Scripter",
+        "mo":"Modeller",
+        "mm":"Manual Maker",
+        "imm":"Interactive Manual Maker",
+        "ti":"TP implementer",
+        "si":"Souvenir implementer",
+        "se":"Server Events",
+        "me":"Modkit Events",
+        "wc":"Weekly Contest"
+    },
+    "AboutMe": {
+        "token": "",
+        "botId": "603475502589673472",
+        "joinUrl": "https://discordapp.com/oauth2/authorize?client_id=603475502589673472&scope=bot",
+        "status": {
+            "status": "online",
+            "presence": "PLAYING",
+            "activity": "with some code"
+        },
+        "ownerId":"222344019458392065"
+    },
+    "HelpChannels":[
+        {
+            "name":"Modelling",
+            "channels":["603481588453605381","603481617364680704","603481633974124574"]
+        },
+        {
+            "name":"Scripting",
+            "channels":["603481475718971395","603481505355923466","603481527988387870"]
+        },
+        {
+            "name":"Manual making",
+            "channels":["603481828069867521","603481843123224592","603481855928303646"]
+        },
+        {
+            "name":"Twitch Plays Implementation",
+            "channels":["603481196080529418","603481259745738752","603481296890757120"]
+        }
+    ]
+}
