@@ -22,12 +22,13 @@
   "homepage": "",
   "dependencies": {
     "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "download-git-repo": "^2.0.0",
     "enmap": "^5.2.3",
+    "express": "^4.16.4",
+    "glob": "^7.1.5",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.2.2",
-    "express": "^4.16.4",
-    "download-git-repo": "^2.0.0",
-    "glob": "^7.1.5",
     "node-fetch": "^2.6.0",
     "request": "^2.88.0",
     "valid-url": "^1.0.9"
