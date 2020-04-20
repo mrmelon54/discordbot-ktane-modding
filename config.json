@@ -27,6 +27,7 @@
         "se":"603519202682470400",
         "me":"603519268914593822",
         "wc":"604646023322664984"
+        "rc":"701678369724432395",
     },
     "DescRoles":{
         "sc":"Scripter",
@@ -37,7 +38,8 @@
         "si":"Souvenir implementer",
         "se":"Server Events",
         "me":"Modkit Events",
-        "wc":"Weekly Contest"
+        "wc":"Modding Contest",
+        "rc":"Repo Contributor"
     },
     "AboutMe": {
         "token": "",
