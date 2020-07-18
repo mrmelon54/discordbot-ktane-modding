@@ -22,6 +22,7 @@
     "enmap": "^5.2.3",
     "express": "^4.16.4",
     "glob": "^7.1.5",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.2.2",
     "node-fetch": "^2.6.0",
