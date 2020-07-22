@@ -16,6 +16,7 @@
   "author": "MrMelon",
   "license": "MIT",
   "dependencies": {
+    "bufferutil": "^4.0.1",
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
     "download-git-repo": "^2.0.0",
@@ -27,6 +28,7 @@
     "moment-duration-format": "^2.2.2",
     "node-fetch": "^2.6.0",
     "request": "^2.88.0",
+    "utf-8-validate": "^5.0.2",
     "valid-url": "^1.0.9"
   }
 }
