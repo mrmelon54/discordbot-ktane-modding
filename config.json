@@ -1,11 +1,11 @@
 {
     "guildId":"603300375058972737",
-    "RoleCommandChannel":"603493543574765591",
+    "RoleCommandChannel":"740529089323991060",
     "IdeaCommandChannel":"603468409505841168",
-    "PastTopicFindChannel":"603477335446126606",
+    "PastTopicFindChannel":"740529089323991060",
     "BotLogChannel":"603553090192539649",
     "MutedRole":"603549717754019860",
-    "HelpFinderChannel":"603324107450220580",
+    "HelpFinderChannel":"740529089323991060",
     "BugChannels":[
         {"input":"603324068820942908","output":"603477699201073182"},
         {"input":"603471523642081300","output":"603474390184886272"},
