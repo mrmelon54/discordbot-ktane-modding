@@ -338,7 +338,4 @@ function updatePastTopicsFile(s) {
     }
 }
 
-client.on('error',err=>client.guilds.get('584382438688555019').channels.get('593476194209366017').send("<@&590198302918836240> __**Error**__\n"+JSON.stringify(err)));
-client.on('warn',err=>client.guilds.get('584382438688555019').channels.get('593476194209366017').send("<@&590198302918836240> __**Warn**__\n"+JSON.stringify(err)));
-
 client.login(process.env.TOKEN);
