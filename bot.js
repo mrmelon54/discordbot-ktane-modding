@@ -338,4 +338,7 @@ function updatePastTopicsFile(s) {
     }
 }
 
+client.on('error', err => console.error(err));
+client.on('warn', err => console.error(err));
+
 client.login(process.env.TOKEN);
