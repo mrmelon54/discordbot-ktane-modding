@@ -24,7 +24,7 @@
     "express": "^4.16.4",
     "glob": "^7.1.5",
     "lodash": "^4.17.21",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "node-fetch": "^3.1.1",
     "request": "^2.88.0",
