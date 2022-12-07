@@ -21,7 +21,7 @@
     "dotenv": "^8.2.0",
     "download-git-repo": "^2.0.0",
     "enmap": "^5.2.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "glob": "^7.1.5",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
