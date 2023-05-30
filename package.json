@@ -7,7 +7,7 @@
     "start": "node bot.js"
   },
   "engines": {
-    "node": "10.5.0"
+    "node": "20.0.0"
   },
   "repository": {
     "type": "git",
@@ -17,18 +17,18 @@
   "license": "MIT",
   "dependencies": {
     "bufferutil": "^4.0.1",
-    "discord.js": "^11.5.1",
-    "dotenv": "^8.2.0",
-    "download-git-repo": "^2.0.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "download-git-repo": "^3.0.2",
     "enmap": "^5.2.3",
     "express": "^4.17.3",
-    "glob": "^7.1.5",
+    "glob": "^10.2.6",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "moment-duration-format": "^2.2.2",
     "node-fetch": "^3.2.10",
     "request": "^2.88.0",
-    "utf-8-validate": "^5.0.2",
+    "utf-8-validate": "^6.0.3",
     "valid-url": "^1.0.9"
   }
 }
